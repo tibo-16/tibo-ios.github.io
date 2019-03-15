@@ -1,7 +1,5 @@
-# Downloads
+# _Android_
 ---
-
-## _**Android**_
 
 ### 1.4.1 (14)
 **[Download](https://dl.dropboxusercontent.com/s/qh6itvgc37e1hqg/app-release.apk)**
@@ -13,7 +11,9 @@ Falls trotz der Deinstallation der alten Version die Installation dieser nicht f
   
 **[Download](https://dl.dropboxusercontent.com/s/ldyh8l9k0c8lsbf/app-release-1.5.0.apk)**
 
-## _**iOS**_
+# _iOS_
+---
+
 Wird über _**TestFlight**_ installiert!
 
 ### 1.5.0 (15)

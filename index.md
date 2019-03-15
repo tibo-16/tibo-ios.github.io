@@ -7,7 +7,7 @@
 ### 1.5.0 (15)
 Falls du die Version **1.4.1 (14) oder eine ältere** schon auf deinem Smartphone installiert hast, musst du die App vor der Installation _dieser_ Version **deinstallieren**!  
 Dabei werden jedoch **alle** Einstellungen und Daten gelöscht!!!  
-Sollte eine Installation dieser Version trotz Deinstallation der 1.4.1 nicht möglich sein, musst du ggfs. dein Smartphone **neustarten**.   
+Sollte eine Installation _dieser_ Version trotz Deinstallation der _alten_ Version nicht möglich sein, musst du ggfs. dein Smartphone **neustarten**.   
   
 **[Download](https://dl.dropboxusercontent.com/s/ldyh8l9k0c8lsbf/app-release-1.5.0.apk)**
 

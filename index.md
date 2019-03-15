@@ -1,11 +1,12 @@
-# Download
+# Downloads
+---
 
-## Android
+## _Android_
 
 ### 1.4.1 (14)
 
 ### 1.5.0 (15)
 
-## iOS
+## _iOS_
 
 ### 1.5.0 (15)

@@ -9,6 +9,8 @@ Falls du die Version **1.4.1 (14) oder älter** schon installiert hast, musst du
 Dabei werden jedoch **alle** Einstellungen und Daten gelöscht!!!  
 Sollte eine Installation _dieser_ Version trotz Deinstallation der _alten_ Version nicht möglich sein, musst du ggfs. dein Smartphone **neustarten**.   
   
+Sorry für die Umstände!  
+  
 **[Download](https://dl.dropboxusercontent.com/s/ldyh8l9k0c8lsbf/app-release-1.5.0.apk)**
 
 # _iOS_

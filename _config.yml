@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: CashTime
 show_downloads: true
-github.is_project_page: https://github.com/tibo-ios/zeitenrechner
+github.repository_url: https://github.com/tibo-ios/zeitenrechner
+github.is_project_page: true

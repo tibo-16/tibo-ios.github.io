@@ -5,9 +5,9 @@
 **[Download](https://dl.dropboxusercontent.com/s/qh6itvgc37e1hqg/app-release.apk)**
 
 ### 1.5.0 (15)
-Diese Version funktioniert leider nur nach einer **Neuinstallation** der App. Somit muss eine evtl. installierte Version vorab **deinstalliert** werden!  
+Falls du die Version **1.4.1 (14) oder eine ältere** schon auf deinem Smartphone installiert hast, musst du die App vor der Installation _dieser_ Version **deinstallieren**!  
 Dabei werden jedoch **alle** Einstellungen und Daten gelöscht!!!  
-Falls trotz der Deinstallation der alten Version die Installation dieser nicht funktioniert, muss ggfs. ein **Neustart** des Smartphones durchgeführt werden.  
+Sollte eine Installation dieser Version trotz Deinstallation der 1.4.1 nicht möglich sein, musst du ggfs. dein Smartphone **neustarten**.   
   
 **[Download](https://dl.dropboxusercontent.com/s/ldyh8l9k0c8lsbf/app-release-1.5.0.apk)**
 

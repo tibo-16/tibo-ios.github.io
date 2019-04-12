@@ -18,5 +18,5 @@ Sorry für die Umstände!
 
 Wird über _**TestFlight**_ installiert!
 
-### 1.5.1 (16)
+### 1.6.0 (17)
 **[Download](https://testflight.apple.com/join/22kUDQ1B)**
